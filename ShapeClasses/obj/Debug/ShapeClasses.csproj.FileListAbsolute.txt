@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\bin\Debug\ShapeClasses.exe.config
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\bin\Debug\ShapeClasses.exe
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\bin\Debug\ShapeClasses.pdb
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\obj\Debug\ShapeClasses.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\obj\Debug\ShapeClasses.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\obj\Debug\ShapeClasses.exe
+C:\Users\sharon\source\repos\ShapeClasses\ShapeClasses\obj\Debug\ShapeClasses.pdb
